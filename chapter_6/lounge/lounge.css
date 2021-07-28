@@ -1,5 +1,8 @@
+body {
+	font-family: sans-serif;	
+	}
+
 h1, h2 {
-	font-family: sans-serif;
 	color: gray;
 	}
 h1 {
@@ -7,4 +10,13 @@ h1 {
 	}
 p {
 	color: maroon;
+	}
+p.greentea {
+	color: green;
+	}
+p.raspberry {
+	color: blue;
+	}
+P.blueberry {
+	color: purple;
 	}
