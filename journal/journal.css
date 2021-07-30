@@ -2,10 +2,12 @@
 	font-family: "Emblema One";
 	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), 
 	url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf")
-)
+}
 Body {
 	font-family: Verdana, Geneva Arial, sans-serif;
 }
-
+h1 {
+	font-family: "Emblema One", sans-serif;	
+}
 
 
