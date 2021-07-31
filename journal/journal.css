@@ -3,7 +3,7 @@
 	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), 
 	url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf")
 }
-Body {
+body {
 	font-family: Verdana, Geneva Arial, sans-serif;
 	font-size: small;
 }
@@ -11,7 +11,7 @@ h1 {
 	font-family: "Emblema One", sans-serif;	
 	font-size: 220%;
 }
-H2 {
-	font-size: 130;
+h2 {
+	font-size: 130%;
 }
 
