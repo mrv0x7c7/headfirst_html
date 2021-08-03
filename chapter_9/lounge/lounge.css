@@ -12,3 +12,9 @@ h1 {
 h2 {
 	font-size:130%
 }
+.guarantee {
+	border-colour: black;
+	border-width: 1px;
+	border-style: solid;
+	background-colour: #a7cece;
+}
