@@ -1,6 +1,7 @@
 body {
 	font-size: small;
 	font-family: Verdana, Helevetica, Arial, sans-serif;
+	line-height: 1.6em;
 }
 H1, h2 {
 	color: #007e7e;
