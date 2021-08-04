@@ -13,16 +13,18 @@ h2 {
 	font-size:130%
 }
 .guarantee {
-	border-colour: black;
+	line-height: 1.9em;
+	font-style: italic;
+	color: #444444;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	border-color: black;
 	border-width: 1px;
 	border-style: solid;
 	background-color: #a7cece;
 	padding: 25px;
+	padding-left: 80px;
 	margin: 30px;
-	line-height: 1.9em;
-	font-style: italic;
-	color: #444444;
-	font-family: Georgia, Times New Roman, Times, serif;
+	margin-right: 250px;
 	background: url(images/background.gif);
 	background-repeat: no-repeat;
 	background-position: top left;
