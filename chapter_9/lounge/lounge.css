@@ -17,6 +17,9 @@ h2 {
 	font-style: italic;
 	color: #444444;
 	font-family: Georgia, "Times New Roman", Times, serif;
+	background: url(images/background.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
 	border-color: black;
 	border-width: 1px;
 	border-style: solid;
@@ -25,7 +28,7 @@ h2 {
 	padding-left: 80px;
 	margin: 30px;
 	margin-right: 250px;
-	background: url(images/background.gif);
-	background-repeat: no-repeat;
-	background-position: top left;
+	border-style: dashed;
+	border-color: white;
+	border-radius: 15px;
 }
