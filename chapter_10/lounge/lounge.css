@@ -1,9 +1,6 @@
-body {
-  font-size:           small;
-  font-family:         Verdana, Helvetica, Arial, sans-serif;
-  line-height:         1.6em;
+Body {
+	font: small/1.6em Verdana, Helvetica, Arial, sans-serif:
 }
-
 h1, h2 {
   color:               #007e7e;
 }
@@ -53,6 +50,12 @@ h2 {
 #elixirs h3 {
 	color: #d12c47;
 }	
+#footer {
+	font-size: 80%;
+	text-align: center;
+	line-height: normal;
+	margin-top: 30px;
+}
 
 
 
