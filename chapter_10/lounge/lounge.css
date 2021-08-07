@@ -34,6 +34,7 @@ h2 {
   background-position: top left;
 }
 #elixirs {
+	line-height 1,2;
 	border-width: thin;
 	border-style: solid;
 	border-color: #007e7e;
@@ -46,6 +47,12 @@ h2 {
 	background-image: url(images/cocktail.gif);
 	background-repeat: repeat-x;
 }
+#elixirs h2 {
+	color: black;
+}
+#elixirs h3 {
+	color: #d12c47;
+}	
 
 
 
