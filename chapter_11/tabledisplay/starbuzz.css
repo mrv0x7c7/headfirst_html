@@ -11,18 +11,28 @@ body {
   height:           108px;
 }
 
+#tableContainer {
+	display: table;
+	border-spacing: 10px;
+}
+#tableRow {
+	display: table-row;
+}
+
 #main {
+	display: table:cell;
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
+	Vertical-align: top;
 }
 
 #sidebar {
+	display: table-cell;
   background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
+	vertical-align: top;
 }
 
 #footer {
