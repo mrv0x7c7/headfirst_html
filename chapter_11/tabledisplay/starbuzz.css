@@ -11,12 +11,30 @@ body {
   height:           108px;
 }
 
+#headerSlogan {
+	float: right;
+}
+
+#award {
+	position: absolute;
+	top: 30px;
+	left: 365px;
+}
+
 #tableContainer {
 	display: table;
 	border-spacing: 10px;
 }
 #tableRow {
 	display: table-row;
+}
+
+#drinks {
+	display: table-cell;
+	background-colour: #efe5do;
+	width: 20%;
+	padding: 15px;
+	vertical-align: top;
 }
 
 #main {
