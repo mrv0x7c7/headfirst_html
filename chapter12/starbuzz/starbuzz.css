@@ -41,7 +41,6 @@ section#drinks {
     vertical-align: top;
 }
 
-/* added section#blog for blog */
 section#main, section#blog {
   display: table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
@@ -91,13 +90,12 @@ a:visited {
   text-decoration:  none;
   border-bottom:    thin dotted #675c47;
 }
-
-
 nav {
-    background-color: #efe5d0;
-	margin: 10px 10px 0px 10px;
+	background-color: #efe5d0;
+	margin: 10px 10px 0 px 10px;
 }
 nav ul {
+	background-color: #efe5do;
 	margin: 0px;
 	list-style-type: none;
 	padding: 5px 0px 5px 0px;
@@ -110,11 +108,6 @@ nav ul li a:link, nav ul li a:visited {
 	color: #954b4b;
 	border-bottom: none;
 	font-weight: bold;
-
-/*
-	text-shadow: 1px 1px 3px #e2c2c2; 
-	text-transform: uppercase;
-*/
 }
 nav ul li.selected {
 	background-color: #c8b99c;
