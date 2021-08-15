@@ -29,15 +29,15 @@ header img#headerSlogan {
 	display: table-row;
 }
 
-#drinks {
+section#drinks {
 	display: table-cell;
-	background: #efe5do url(images/background.gif) top left;
+	 background:       #efe5d0 url(images/background.gif) top left;
 	width: 20%;
 	padding: 15px;
 	vertical-align: top;
 }
 
-#main {
+section#main {
 	display: table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
