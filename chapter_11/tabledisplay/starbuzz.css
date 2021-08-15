@@ -31,7 +31,7 @@ body {
 
 #drinks {
 	display: table-cell;
-	background-colour: #efe5do;
+	background: #efe5do url(images/background.gif) top left;
 	width: 20%;
 	padding: 15px;
 	vertical-align: top;
