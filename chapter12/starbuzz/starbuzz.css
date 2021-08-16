@@ -5,14 +5,6 @@ body {
   margin:           0px;
 }
 
-/* 
-	height messes up the headers in the blog in the articles
-	it's only appropriate for the top header.
-	add a class (new with blog)
-	Affects the 3 #header rules for the main header below
-	In HTML: add class="top" to main header in index.html and blog.html
-*/
-
 header.top {
   background-color: #675c47;
   margin: 10px 10px 0px 10px;
@@ -22,7 +14,6 @@ header.top {
 header.top img#headerSlogan {
 	float: right;
 }
-
 
 div#tableContainer {
 	display: table;
@@ -92,7 +83,7 @@ a:visited {
 }
 nav {
 	background-color: #efe5d0;
-	margin: 10px 10px 0 px 10px;
+	margin: 10px 10px 0px 10px;
 }
 nav ul {
 	background-color: #efe5do;
