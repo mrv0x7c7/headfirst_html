@@ -39,6 +39,10 @@ th {
 .cellcolor {
 	background-color: #fcba7a;
 }
+table table th {
+	background-color: white;
+	font-weight: normal;
+} 
 Caption {
 	font-style: italic;
 	padding-top: 8px;	
