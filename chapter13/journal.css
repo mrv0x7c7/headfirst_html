@@ -33,6 +33,12 @@ td, th {
 	border: thin dotted gray;
 	padding: 5px;
 }
+th {
+	background-color: #cc6600;
+}
+.cellcolor {
+	background-color: #fcba7a;
+}
 Caption {
 	font-style: italic;
 	padding-top: 8px;	
