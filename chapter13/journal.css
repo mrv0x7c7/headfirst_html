@@ -22,34 +22,42 @@ h2 {
 blockquote {
   font-style:      italic;
 }
+
 table {
-	margin-left: 20px;
-	margin-right: 20px;
-	border: thin solid black;
-	caption-side: bottom;
-	border-collapse: collapse;
-} 
-td, th {
-	border: thin dotted gray;
-	padding: 5px;
+  margin-left:      20px;
+  margin-right:     20px;
+  border:           thin solid black;
+  caption-side:     bottom;
+  border-collapse:  collapse;
 }
-th {
-	background-color: #cc6600;
-}
-.cellcolor {
-	background-color: #fcba7a;
-}
+
 table table th {
-	background-color: white;
-	font-weight: normal;
-} 
-Caption {
-	font-style: italic;
-	padding-top: 8px;	
+  background-color: white;
 }
+
+td, th {
+  border:           thin dotted gray;
+  padding:          5px;
+}
+
+th {
+  background-color: #cc6600;
+}
+
+.cellcolor {
+  background-color: #fcba7a;
+}
+
+
+caption {
+  font-style:       italic;
+  padding-top:      8px;
+}
+
 .center {
-	text-align: center;
+  text-align:       center;
 }
+
 .right {
-	text-align: right;
+  text-align:       right;
 }
