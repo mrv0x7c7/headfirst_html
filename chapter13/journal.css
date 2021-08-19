@@ -61,3 +61,8 @@ caption {
 .right {
   text-align:       right;
 }
+li {
+	list-style-image: url(images/backpack.gif);
+	padding: 5px;
+	margin-left: 20px;
+}
